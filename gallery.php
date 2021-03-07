@@ -73,9 +73,9 @@
                                             <div class="modal-body">
                                                 <img src="images/food-1.jpg" alt="" />
                                             </div>
-                                            <div class="col-md-12 description">
+                                            <!-- <div class="col-md-12 description">
                                                 <h4>This is the 1 one on my Gallery</h4>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -94,9 +94,9 @@
                                             <div class="modal-body">
                                                 <img src="images/flame-2160x2880.jpeg" alt="" />
                                             </div>
-                                            <div class="col-md-12 description">
+                                            <!-- <div class="col-md-12 description">
                                                 <h4>This is the 2 one on my Gallery</h4>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -115,9 +115,9 @@
                                             <div class="modal-body">
                                                 <img src="images/spice-828x315.jpeg" alt="" />
                                             </div>
-                                            <div class="col-md-12 description">
+                                            <!-- <div class="col-md-12 description">
                                                 <h4>This is the 3 one on my Gallery</h4>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -136,9 +136,9 @@
                                             <div class="modal-body">
                                                 <img src="images/food-2.jpg" alt="" />
                                             </div>
-                                            <div class="col-md-12 description">
+                                            <!-- <div class="col-md-12 description">
                                                 <h4>This is the 4 one on my Gallery</h4>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -156,9 +156,9 @@
                                             <div class="modal-body">
                                                 <img src="images/food-3.jpg" alt="" />
                                             </div>
-                                            <div class="col-md-12 description">
+                                            <!-- <div class="col-md-12 description">
                                                 <h4>This is the 5 one on my Gallery</h4>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -176,9 +176,9 @@
                                             <div class="modal-body">
                                                 <img src="images/food-4.jpg" alt="" />
                                             </div>
-                                            <div class="col-md-12 description">
+                                            <!-- <div class="col-md-12 description">
                                                 <h4>This is the 6 one on my Gallery</h4>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -196,9 +196,9 @@
                                             <div class="modal-body">
                                                 <img src="images/food-5.jpg" alt="" />
                                             </div>
-                                            <div class="col-md-12 description">
+                                            <!-- <div class="col-md-12 description">
                                                 <h4>This is the 7 one on my Gallery</h4>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -216,9 +216,9 @@
                                             <div class="modal-body">
                                                 <img src="images/food-6.jpg" alt="" />
                                             </div>
-                                            <div class="col-md-12 description">
+                                            <!-- <div class="col-md-12 description">
                                                 <h4>This is the 8 one on my Gallery</h4>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -236,9 +236,9 @@
                                             <div class="modal-body">
                                                 <img src="images/food-7.jpg" alt="" />
                                             </div>
-                                            <div class="col-md-12 description">
+                                            <!-- <div class="col-md-12 description">
                                                 <h4>This is the 9 one on my Gallery</h4>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>

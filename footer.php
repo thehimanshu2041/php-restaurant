@@ -10,7 +10,7 @@
                             <img src="images/alogo.png" alt="" style="max-width: 120px;;" />
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <!-- <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="footer-box-a">
                             <h3>About Us</h3>
                             <p>We have come together as a family and have opened our local kitchen. It specializes in
@@ -18,10 +18,9 @@
                                     class="hvr-underline-from-center" href="about.php" style="color: #e75b1e;">Read
                                     More</a></p>
                         </div>
-                        <!-- end footer-box-a -->
-                    </div>
+                    </div> -->
                     <!-- end col -->
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                         <div class="footer-box-b">
                             <h3>Follow Us</h3>
                             <ul class="socials-box footer-socials pull-left">
@@ -61,29 +60,30 @@
                         <!-- end footer-box-b -->
                     </div>
                     <!-- end col -->
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                         <div class="footer-box-c">
                             <h3>Contact Us</h3>
                             <p>
                                 <i class="fa fa-map-signs" aria-hidden="true"></i>
-                                <span>UNIT 25, 57a Croydon Rd, Croydon <br>CR0 4WQ, United Kingdom</span>
+                                <span><a target="_blank"
+                                        href="https://www.google.com/maps/place/Oh+Spice/@51.36609,-0.123442,16z/data=!4m5!3m4!1s0x0:0x68e8180e88f1103b!8m2!3d51.3660905!4d-0.1234418?hl=en">
+                                        UNIT 25, 57a Croydon Rd, Croydon <br>CR0 4WQ, United Kingdom</a></span>
                             </p>
                             <p>
                                 <i class="fa fa-mobile" aria-hidden="true"></i>
                                 <span>
-                                    <a href="tel:+44 7930 608333" style="color: #e75b1e;">+44 7930 608333</a>
+                                    <a href="tel:+44 7983630124">+44 7983630124</a>
                                 </span>
                             </p>
                             <p>
                                 <i class="fa fa-envelope" aria-hidden="true"></i>
-                                <span><a href="mailto:info@ohspice.co.uk"
-                                        style="color: #e75b1e;">info@ohspice.co.uk</a></span>
+                                <span><a href="mailto:info@ohspice.co.uk">info@ohspice.co.uk</a></span>
                             </p>
                         </div>
                         <!-- end footer-box-c -->
                     </div>
                     <!-- end col -->
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                         <div class="footer-box-d">
                             <h3>Opening Hours</h3>
 
