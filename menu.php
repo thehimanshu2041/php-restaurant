@@ -81,7 +81,7 @@
                             <div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>ONION BHAJI</h3>
                                             <p>
@@ -94,7 +94,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>CHATAK CHOLEY</h3>
                                             <p>
@@ -108,7 +108,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>MURG MALAI TIKKA </h3>
                                             <p>
@@ -123,7 +123,7 @@
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>SHEEK KEBAB</h3>
                                             <p>
@@ -137,7 +137,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>CHICKEN PAKORA</h3>
                                             <p>
@@ -171,7 +171,7 @@
                             <div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>KAIRI WALI BHINDI</h3>
                                             <p>
@@ -185,7 +185,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>CHANNA MASALA</h3>
                                             <p>
@@ -198,7 +198,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>PANEER MAKHANWALA</h3>
                                             <p>
@@ -210,7 +210,7 @@
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>PEELI DAAL</h3>
                                             <p>
@@ -223,7 +223,7 @@
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>BOMBAY ALOO</h3>
                                             <p>
@@ -259,7 +259,7 @@
                             <div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>PRAWN MOILEY</h3>
                                             <p>
@@ -294,7 +294,7 @@
                             <div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>MURG MALAI KORMA</h3>
                                             <p>
@@ -308,7 +308,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>MURG MAKHANWALA</h3>
                                             <p>
@@ -323,7 +323,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>KADHAI MURG</h3>
                                             <p>
@@ -337,7 +337,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>CHICKEN CHETTINAD</h3>
                                             <p>
@@ -371,7 +371,7 @@
                             <div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>MALABAR GOSHT</h3>
                                             <p>
@@ -385,7 +385,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>BHUNA GOSHT</h3>
                                             <p>
@@ -400,7 +400,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>DUM BIRYANI (Chicken or Lamb)</h3>
                                             <p>
@@ -435,7 +435,7 @@
                             <div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>STEAMED RICE</h3>
                                             <p>
@@ -448,7 +448,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3> PULAO</h3>
                                             <p>
@@ -461,7 +461,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>MUSHROOM RICE</h3>
                                             <p>
@@ -494,7 +494,7 @@
                             <div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>BUTTERED NAAN</h3>
                                             <p>
@@ -507,7 +507,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>GARLIC NAAN</h3>
                                             <p>
@@ -519,7 +519,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>KEEMA NAAN</h3>
                                             <p>
@@ -532,7 +532,7 @@
                                 <!-- end col -->
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                                     <div class="offer-item">
-                                        <img src="images/cs.jpg" alt="" class="img-responsive">
+                                        <img src="images/flame-1580x1452.jpeg" alt="" class="img-responsive">
                                         <div>
                                             <h3>KHAJOORI NAAN</h3>
                                             <p>

@@ -53,13 +53,12 @@
 </div>
     <!-- end banner -->
 
-    <div "about"="" class="about-main">
+    <div class="about-main">
             <div class="row" style="margin: 0px;background-color: #e75b1e">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="padding: 0px">
                     <div class="wow fadeIn" data-wow-duration="1s" data-wow-delay="0.1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.1s; animation-name: fadeIn;">
-                        <div class="">
-                            
-							<img src="images/special_menu_bg.jpg" class="about-imagesin about-main-imgin">
+                        <div>
+							<img src="images/flame-5000x3333.jpeg" class="about-imagesin about-main-imgin">
                         </div>
                     </div>
                 </div>
