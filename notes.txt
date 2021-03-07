@@ -1,0 +1,33 @@
+Header1 :
+	ref (https://www.chettinadrestaurant.com/london/gallery)
+
+Header2 :
+	LOGO : (We need design)
+	ref (https://www.benaresrestaurant.com/#)
+
+Home :
+	Video - 1. kitchen cooking  
+			2. Displaying food (No service) 
+			NOTE : (We need to figure out videoes)
+			ref(https://www.benaresrestaurant.com/#)
+
+About :
+	About Resturent
+	ref(http://www.namaastekitchen.co.uk/about.php)
+
+Menu :
+	Menu Lists
+	ref(http://www.namaastekitchen.co.uk/lunch-menu.php)
+
+Gallery :
+	List of photos
+	NOTE : (We need to figure out Images)	
+	ref (https://www.chettinadrestaurant.com/london/gallery)
+
+contact us :
+	Query form : Query send to mail box
+	Socail media connect
+	ref(https://www.chettinadrestaurant.com/london/contact)
+
+Footer :	
+	ref (https://www.chettinadrestaurant.com/london/gallery)
